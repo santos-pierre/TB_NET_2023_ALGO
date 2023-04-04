@@ -1,6 +1,6 @@
 ﻿namespace last_try.demos
 {
-    internal class Demo1
+    class Demo1
     {
         static void Main(string[] args)
         {
